@@ -17,6 +17,37 @@ Switch to **Build** mode (Tab) when you want AI to create files.
 
 ---
 
+## Progress
+
+> Legend: [x] = done, [ ] = not started
+
+- **Phase 1: Foundations**
+  - [x] Step 1.1 -- AI Glossary (`glossary.md`)
+  - [x] Step 1.2 -- How fresh context works (`examples/how-context-works.md`)
+  - [x] Step 1.3 -- Anatomy of a good prompt (`prompts/how-to-prompt.md`)
+- **Phase 2: OpenCode in practice**
+  - [x] Step 2.1 -- AGENTS.md for this repository (`AGENTS.md`)
+  - [ ] Step 2.2 -- First agent: test-reviewer
+  - [ ] Step 2.3 -- First skill: writing test cases
+  - [ ] Step 2.4 -- First command: /test-plan
+  - [ ] Step 2.5 -- MCP servers useful for QA
+- **Phase 3: AI in daily QA work**
+  - [ ] Step 3.1 -- Prompts for test cases and scenarios
+  - [ ] Step 3.2 -- Prompts for Playwright tests
+  - [ ] Step 3.3 -- Prompts for API testing
+  - [ ] Step 3.4 -- Prompts for bug reports and communication
+  - [ ] Step 3.5 -- Requirements analysis and review
+- **Phase 4: AI in the quality process**
+  - [ ] Step 4.1 -- Map of AI applications in the software lifecycle
+  - [ ] Step 4.2 -- Risks and limitations of AI in QA
+  - [ ] Step 4.3 -- More agents and skills
+
+**Bonus content** (created outside the plan):
+- `examples/build-vs-plan-mode.md`
+- `examples/project-rules-across-tools.md`
+
+---
+
 ## Topic map
 
 ```
